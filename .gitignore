@@ -17,11 +17,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 
-/app/
-/components/
-/lib/
-/hooks/
-
 # env files
 .env*
 
